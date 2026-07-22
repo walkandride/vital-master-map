@@ -195,3 +195,111 @@ Therapist plans to:
 
 ---
 
+## **Mermaid Diagram — Push–Pull Structure (ISS)**
+
+```mermaid
+flowchart LR
+
+    %% CORE STRUCTURE
+    A["PUSH–PULL STRUCTURE<br/>Oscillation Between Two Poles"] --> B["Pole 1:<br/>Desire / Approach"]
+    A --> C["Pole 2:<br/>Fear / Avoidance"]
+
+    %% MOVEMENT BETWEEN POLES
+    B --> D["Push:<br/>Movement toward connection, action, or desire"]
+    C --> E["Pull:<br/>Movement away from risk, vulnerability, or demand"]
+
+    D --> F["Oscillation:<br/>Back-and-forth movement"]
+    E --> F
+
+    %% AGENCY COLLAPSE
+    F --> G["Agency Collapse Point:<br/>Occurs when relational/emotional demand increases"]
+
+    %% FORCES
+    A --> H["Forces:<br/>Desire • Fear • Ambivalence • Uncertainty"]
+    H --> H1["Tension:<br/>Both poles activate simultaneously"]
+
+    %% IDENTITY
+    A --> I["Identity Pattern:<br/>Two competing identity nodes"]
+    I --> I1["Effect:<br/>Internal conflict, mixed signals, inconsistent action"]
+
+    %% MOVEMENT
+    A --> J["Movement:<br/>Pause"]
+    J --> J1["Purpose:<br/>Interrupt oscillation, reduce velocity"]
+    J --> J2["Stabilizer:<br/>Create space to choose intentionally"]
+```
+
+---
+
+## **How to read this diagram**
+- **Two poles** generate opposing forces: desire vs. fear, approach vs. avoidance.  
+- The person oscillates between them — the “push” toward what they want and the “pull” away from what feels risky.  
+- **Agency collapses** when the emotional or relational demand spikes.  
+- The **movement** for this structure is *pause* — slowing the oscillation so the person can choose rather than react.
+
+---
+
+## **Mermaid diagram comparing Push–Pull vs. Gap**
+
+Here’s a clean, structural **Mermaid diagram comparing Push–Pull vs. Gap** — showing how these two ISS patterns differ in architecture, agency, tension, and movement.  
+This is non‑clinical, non‑diagnostic, and purely structural.
+
+You can paste this directly into VS Code, Obsidian, or any Mermaid-enabled environment.
+
+---
+
+## **Mermaid Diagram — Push–Pull vs. Gap (ISS Structural Comparison)**
+
+```mermaid
+flowchart LR
+
+    %% CENTRAL SPLIT
+    A["Stuck Experience"] --> B["Push–Pull Structure"]
+    A --> C["Gap Structure"]
+
+    %% PUSH–PULL BRANCH
+    subgraph PP["Push–Pull (Oscillation Between Poles)"]
+        B1["Core Pattern:<br/>Back-and-forth movement"]
+        B2["Pole 1:<br/>Desire / Approach"]
+        B3["Pole 2:<br/>Fear / Avoidance"]
+        B4["Tension:<br/>Both poles active simultaneously"]
+        B5["Agency Collapse:<br/>At relational/emotional demand"]
+        B6["Movement:<br/>Pause (slow oscillation)"]
+        B --> B1 --> B2 --> B3 --> B4 --> B5 --> B6
+    end
+
+    %% GAP BRANCH
+    subgraph GAP["Gap (Missing Bridge Between Poles)"]
+        C1["Core Pattern:<br/>Two cliffs with no bridge"]
+        C2["Pole 1:<br/>Desire / Intention"]
+        C3["Pole 2:<br/>Action / Execution"]
+        C4["Tension:<br/>Latent (not visible)"]
+        C5["Agency Collapse:<br/>At initiation"]
+        C6["Movement:<br/>Micro-bridge (tiny actionable step)"]
+        C --> C1 --> C2 --> C3 --> C4 --> C5 --> C6
+    end
+
+    %% CONTRAST LINES
+    B1 --- C1
+    B2 --- C2
+    B3 --- C3
+    B4 --- C4
+    B5 --- C5
+    B6 --- C6
+```
+
+---
+
+## **How to read this diagram**
+### **Push–Pull**
+- The person oscillates between two poles (wanting vs. not wanting).  
+- Tension is *active* and felt.  
+- Agency collapses when emotional or relational demand spikes.  
+- Movement is **pause** — slowing the oscillation so choice becomes possible.
+
+### **Gap**
+- The person has desire but cannot initiate action.  
+- Tension is *latent* — not felt until action is attempted.  
+- Agency collapses at the very first step.  
+- Movement is **micro‑bridge** — a tiny, concrete action that spans the gap.
+
+---

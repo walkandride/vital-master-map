@@ -201,3 +201,56 @@ Therapist plans to:
 - Discuss how viewpoint shifts create decompression opportunities
 
 ---
+
+Here’s a clean, structural **Mermaid diagram of the Compression Structure** — showing how ISS models inward pressure, reduced emotional space, agency collapse, and movement.
+
+You can paste this directly into VS Code, Obsidian, or any Mermaid-enabled environment.
+
+---
+
+## **Mermaid Diagram — Compression Structure (ISS)**
+
+```mermaid
+flowchart TD
+
+    %% CORE STRUCTURE
+    A["COMPRESSION STRUCTURE<br/>Inward Pressure / Reduced Space"]
+
+    %% PRESSURE
+    A --> B["Pressure Source:<br/>Demand • Expectation • Emotion • Overload"]
+    B --> C["Effect:<br/>Internal space shrinks"]
+
+    %% EXPERIENCE
+    C --> D["Experience:<br/>Tightness • Constriction • Overwhelm"]
+    D --> E["Tension Pattern:<br/>High density, no movement"]
+
+    %% AGENCY COLLAPSE
+    E --> F["Agency Collapse Point:<br/>At expression or external demand"]
+
+    %% IDENTITY
+    A --> G["Identity Pattern:<br/>Self feels small or constrained"]
+    G --> G1["Identity Effect:<br/>Reduced capacity, muted voice"]
+
+    %% FORCES
+    A --> H["Forces:<br/>Pressure • Fear • Obligation • Containment"]
+    H --> H1["Secondary Effect:<br/>Shutdown or freeze"]
+
+    %% MOVEMENT
+    A --> I["Movement:<br/>Micro‑expansion"]
+    I --> I1["Purpose:<br/>Create small pockets of space"]
+    I --> I2["Stabilizer:<br/>Slow pressure, widen internal room"]
+```
+
+---
+
+## **How to read this diagram**
+- **Compression** is inward pressure that reduces emotional or cognitive space.  
+- The person feels **tight**, constrained, or overloaded.  
+- **Tension is dense**, not chaotic — everything is squeezed inward.  
+- **Agency collapses** when asked to express, act, or respond.  
+- Identity feels **small**, muted, or constrained.  
+- Movement is **micro‑expansion** — creating tiny pockets of space to reduce pressure.
+
+Compression is not pathology — it’s a **structure** describing how experience behaves under inward force.
+
+---

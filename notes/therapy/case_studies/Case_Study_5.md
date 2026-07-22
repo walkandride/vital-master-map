@@ -198,3 +198,132 @@ Therapist plans to:
 - Have them run ISS prompts on their own internal contradictions  
 - Compare their own part dynamics with the client’s  
 - Discuss how viewpoint shifts stabilize fragmentation
+
+---
+
+Here’s a clean, structural **Mermaid diagram of the Fragmentation Structure** — showing how ISS models parts, identity shifts, agency collapse, and movement.  
+You can paste this directly into VS Code, Obsidian, or any Mermaid-enabled environment.
+
+---
+
+## **Mermaid Diagram — Fragmentation Structure (ISS)**
+
+```mermaid
+flowchart TD
+
+    %% CORE STRUCTURE
+    A["FRAGMENTATION STRUCTURE<br/>Parts Acting Independently"]
+
+    %% PARTS
+    A --> B["Part A:<br/>One identity node"]
+    A --> C["Part B:<br/>Another identity node"]
+    A --> D["Part C:<br/>Optional additional parts"]
+
+    %% PART DYNAMICS
+    B --> E["Part Activation:<br/>Sudden shift in control"]
+    C --> E
+    D --> E
+
+    %% TENSION
+    E --> F["Tension Pattern:<br/>Internal conflict between parts"]
+
+    %% AGENCY COLLAPSE
+    F --> G["Agency Collapse Point:<br/>At part takeover"]
+
+    %% FORCES
+    A --> H["Forces:<br/>Fear • Protection • Habit • Identity pressure"]
+    H --> H1["Effect:<br/>Rapid switching, inconsistent behavior"]
+
+    %% IDENTITY
+    A --> I["Identity Pattern:<br/>Multiple competing selves"]
+    I --> I1["Identity Effect:<br/>Loss of coherence"]
+
+    %% MOVEMENT
+    A --> J["Movement:<br/>Micro‑coordination"]
+    J --> J1["Purpose:<br/>Help parts communicate"]
+    J --> J2["Stabilizer:<br/>Slow switching, increase coherence"]
+```
+
+---
+
+## **How to read this diagram**
+- **Multiple parts** (identity nodes) activate independently.  
+- The person experiences **internal conflict** as parts disagree or compete.  
+- **Agency collapses** when one part suddenly takes over.  
+- The identity feels **split**, not unified.  
+- Movement is **micro‑coordination** — helping parts communicate, align, or soften transitions.
+
+Fragmentation is not pathology — it’s a **structure** describing how identity behaves under tension.
+
+---
+
+## **Fragmentation vs. Compression** comparison  
+
+Here’s a **clear, structural Mermaid diagram comparing Fragmentation vs. Compression** — two ISS patterns that *look* similar on the surface (both feel overwhelming), but behave very differently internally.
+
+You can paste this directly into VS Code, Obsidian, or any Mermaid-enabled environment.
+
+---
+
+## **Mermaid Diagram — Fragmentation vs. Compression (ISS Structural Comparison)**
+
+```mermaid
+flowchart LR
+
+    %% CENTRAL NODE
+    A["Overwhelming Experience"] --> B["Fragmentation Structure"]
+    A --> C["Compression Structure"]
+
+    %% FRAGMENTATION BRANCH
+    subgraph FRAG["Fragmentation (Parts Acting Independently)"]
+        F1["Core Pattern:<br/>Multiple parts / identity nodes"]
+        F2["Dynamics:<br/>Sudden switching between parts"]
+        F3["Tension:<br/>Internal conflict between parts"]
+        F4["Agency Collapse:<br/>At part takeover"]
+        F5["Identity Pattern:<br/>Loss of coherence"]
+        F6["Movement:<br/>Micro‑coordination"]
+        B --> F1 --> F2 --> F3 --> F4 --> F5 --> F6
+    end
+
+    %% COMPRESSION BRANCH
+    subgraph COMP["Compression (Inward Pressure)"]
+        C1["Core Pattern:<br/>Inward squeeze / reduced emotional space"]
+        C2["Dynamics:<br/>Pressure builds, no switching"]
+        C3["Tension:<br/>High internal pressure, tightness"]
+        C4["Agency Collapse:<br/>At expression or demand"]
+        C5["Identity Pattern:<br/>Self feels 'shrunk' or constrained"]
+        C6["Movement:<br/>Micro‑expansion"]
+        C --> C1 --> C2 --> C3 --> C4 --> C5 --> C6
+    end
+
+    %% CONTRAST LINES
+    F1 --- C1
+    F2 --- C2
+    F3 --- C3
+    F4 --- C4
+    F5 --- C5
+    F6 --- C6
+```
+
+---
+
+## **How to read this diagram**
+
+### **Fragmentation**
+- Experience breaks into **parts**.  
+- Parts **switch control** rapidly.  
+- Tension is **conflict** between parts.  
+- Agency collapses when a part **takes over**.  
+- Identity feels **split** or inconsistent.  
+- Movement is **micro‑coordination** — helping parts communicate.
+
+### **Compression**
+- Experience becomes **tight**, squeezed inward.  
+- No switching — just **pressure**.  
+- Tension is **density**, not conflict.  
+- Agency collapses when asked to **express** or act.  
+- Identity feels **small**, constrained, or overloaded.  
+- Movement is **micro‑expansion** — creating small pockets of space.
+
+---
+

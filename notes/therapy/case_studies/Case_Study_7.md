@@ -202,3 +202,135 @@ Therapist plans to:
 - Discuss how viewpoint shifts reduce spiral intensity
 
 ---
+
+Here’s a clean, structural **Mermaid diagram of the Spiral Structure** — showing how ISS models recursive escalation, rising velocity, agency collapse, and movement.
+
+You can paste this directly into VS Code, Obsidian, or any Mermaid-enabled environment.
+
+---
+
+## **Mermaid Diagram — Spiral Structure (ISS)**
+
+```mermaid
+flowchart TD
+
+    %% CORE STRUCTURE
+    A["SPIRAL STRUCTURE<br/>Recursive Escalation"]
+
+    %% ESCALATION LOOP
+    A --> B["Trigger:<br/>Thought • Emotion • Meaning"]
+    B --> C["Escalation Cycle:<br/>Each pass increases intensity"]
+    C --> D["Velocity:<br/>Rising speed, narrowing focus"]
+    D --> C
+
+    %% TENSION
+    C --> E["Tension Pattern:<br/>Acceleration + tightening"]
+
+    %% AGENCY COLLAPSE
+    E --> F["Agency Collapse Point:<br/>At re‑entry into cycle"]
+
+    %% FORCES
+    A --> G["Forces:<br/>Fear • Urgency • Rumination • Anticipation"]
+    G --> G1["Effect:<br/>Loss of perspective"]
+
+    %% IDENTITY
+    A --> H["Identity Pattern:<br/>Self pulled into the spiral"]
+    H --> H1["Identity Effect:<br/>Reduced access to broader self"]
+
+    %% MOVEMENT
+    A --> I["Movement:<br/>Interruption"]
+    I --> I1["Purpose:<br/>Break the recursive loop"]
+    I --> I2["Stabilizer:<br/>Slow velocity, widen perspective"]
+```
+
+---
+
+## **How to read this diagram**
+
+- **Spiral** is a recursive loop — each pass increases intensity.  
+- The person feels **pulled inward**, losing perspective.  
+- **Velocity rises**, narrowing attention and amplifying emotion or thought.  
+- **Agency collapses** when the person re-enters the cycle (the moment the loop restarts).  
+- Identity becomes **captured** by the spiral, losing access to broader self-resources.  
+- Movement is **interruption** — breaking the loop before velocity spikes.
+
+Spiral is not pathology — it’s a **structure** describing how experience behaves when recursive escalation takes over.
+
+---
+
+## **Spiral vs. Collapse** comparison  
+
+Here’s a clear, structural **Mermaid diagram comparing Spiral vs. Collapse** — two ISS patterns that can feel intense but behave very differently inside experience.  
+This is non‑clinical, non‑diagnostic, and purely architectural.
+
+You can paste this directly into VS Code, Obsidian, or any Mermaid-enabled environment.
+
+---
+
+## **Mermaid Diagram — Spiral vs. Collapse (ISS Structural Comparison)**
+
+```mermaid
+flowchart LR
+
+    %% CENTRAL NODE
+    A["Intense Experience"] --> B["Spiral Structure"]
+    A --> C["Collapse Structure"]
+
+    %% SPIRAL BRANCH
+    subgraph SPIRAL["Spiral (Recursive Escalation)"]
+        S1["Core Pattern:<br/>Escalation loop"]
+        S2["Dynamics:<br/>Each cycle increases intensity"]
+        S3["Velocity:<br/>Rising speed, narrowing focus"]
+        S4["Tension:<br/>Acceleration + tightening"]
+        S5["Agency Collapse:<br/>At re‑entry into cycle"]
+        S6["Identity Pattern:<br/>Self pulled inward"]
+        S7["Movement:<br/>Interruption"]
+        B --> S1 --> S2 --> S3 --> S4 --> S5 --> S6 --> S7
+    end
+
+    %% COLLAPSE BRANCH
+    subgraph COLLAPSE["Collapse (Sudden Drop)"]
+        C1["Core Pattern:<br/>Trapdoor effect"]
+        C2["Dynamics:<br/>Instant drop in agency"]
+        C3["Velocity:<br/>Immediate fall, no escalation"]
+        C4["Tension:<br/>Spike then shut‑down"]
+        C5["Agency Collapse:<br/>Immediate"]
+        C6["Identity Pattern:<br/>Self falls below threshold"]
+        C7["Movement:<br/>Pre‑collapse stabilization"]
+        C --> C1 --> C2 --> C3 --> C4 --> C5 --> C6 --> C7
+    end
+
+    %% CONTRAST LINES
+    S1 --- C1
+    S2 --- C2
+    S3 --- C3
+    S4 --- C4
+    S5 --- C5
+    S6 --- C6
+    S7 --- C7
+```
+
+---
+
+## **How to read this diagram**
+
+### **Spiral**
+- Experience escalates **recursively**.  
+- Each loop increases intensity.  
+- Velocity rises — attention narrows.  
+- Tension is acceleration + tightening.  
+- Agency collapses when the person **re-enters the loop**.  
+- Identity feels pulled inward.  
+- Movement is **interruption** — breaking the cycle.
+
+### **Collapse**
+- Experience drops suddenly — the “trapdoor.”  
+- No escalation; it’s immediate.  
+- Velocity is a **fall**, not a rise.  
+- Tension spikes, then shuts down.  
+- Agency collapses **instantly**.  
+- Identity falls below a threshold (“I can’t”).  
+- Movement is **pre‑collapse stabilization** — slowing the drop before it happens.
+
+---
+
